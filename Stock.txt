@@ -1,0 +1,5 @@
+Operating System concepts,Avi Silberschatz-Greg Gagne Peter-Baer Galvin,20,Rs20
+Python essential reference,David Beazley,4,Rs35
+Programming With Python,John Smith,19,Rs30
+Cryptography,atul kahate,10,Rs50
+Learning Python,Mark Lutz,79,Rs40
